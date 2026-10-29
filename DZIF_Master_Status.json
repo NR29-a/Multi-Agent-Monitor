@@ -1,8 +1,14 @@
 {
   "ready_for_monitoring": false,
   "source_file": "DZIF_Intelligence_Master.xlsx",
-  "source_sha256": null,
+  "source_sha256": "683c2053639233c59c5d66087339eef75e75c5c124b1af3533a644d168b4cfd4",
+  "checked_at_utc": "2026-10-29T13:37:20.367930+00:00",
+  "total_sheets": 31,
+  "total_tables": 30,
+  "total_records": 7897,
   "errors": [
-    "FileNotFoundError: Excel-Datei nicht gefunden: DZIF_Intelligence_Master.xlsx. Bitte exakt so benennen."
-  ]
+    "Nicht strukturierte Datenbereiche: START",
+    "154 Formeln ohne gespeicherten Wert; Excel in Desktop-App neu berechnen und speichern."
+  ],
+  "warnings_count": 155
 }

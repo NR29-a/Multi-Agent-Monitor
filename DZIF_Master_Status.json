@@ -1,0 +1,8 @@
+{
+  "ready_for_monitoring": false,
+  "source_file": "DZIF_Intelligence_Master.xlsx",
+  "source_sha256": null,
+  "errors": [
+    "FileNotFoundError: Excel-Datei nicht gefunden: DZIF_Intelligence_Master.xlsx. Bitte exakt so benennen."
+  ]
+}

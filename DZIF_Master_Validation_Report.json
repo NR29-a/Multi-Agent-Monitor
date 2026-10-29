@@ -1,0 +1,6 @@
+{
+  "ready_for_monitoring": false,
+  "errors": [
+    "FileNotFoundError: Excel-Datei nicht gefunden: DZIF_Intelligence_Master.xlsx. Bitte exakt so benennen."
+  ]
+}
